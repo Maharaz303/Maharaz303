@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Md. Maharaz Hossain</h1>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQERVK0_IUPe5Q/profile-displaybackgroundimage-shrink_350_1400/B56Zh.sPR8HcAg-/0/1754472184101?e=1757548800&v=beta&t=MdAYfbslgzXJOgLXRXWupQHp5sPCg6Pa9Dp7mz1MgkE">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFF9a02gK4r1w/profile-displaybackgroundimage-shrink_350_1400/B56Zh.3DhGG0AY-/0/1754475021362?e=1757548800&v=beta&t=DgzzZqa1Z6L4ndvTk5bInoCRF6-ryTO6nCYmYB5-G4s">
 <h3 align="center">A Professional Web design and developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharaz303&label=Profile%20views&color=0e75b6&style=flat" alt="maharaz303" /> </p>
