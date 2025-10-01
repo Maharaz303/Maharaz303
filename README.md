@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web Design and Development**
 
-- 👨‍💻 My Portfolio are available at Live Link :  https://maharaz303.github.io/Portfolio/
+- 👨‍💻 My Portfolio are available at Live Link :  https://maharaz303.github.io/Update-Portfolio/
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maharaz303/](https://github.com/Maharaz303/)
